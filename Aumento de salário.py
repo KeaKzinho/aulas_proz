@@ -71,4 +71,4 @@ elif salario>=2000.01:
 # Salário Inválido
 
 elif salario<0:
-  print("Salário Inválido, digita o salário direito seu boboca.")
+  print("Salário Inválido, por favor, digite o salário de forma correta.")
